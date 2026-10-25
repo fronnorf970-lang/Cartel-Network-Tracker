@@ -1,0 +1,24 @@
+name: Refresh Wikidata descriptions
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 7 * * 1'
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/sync_wikidata.py
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: 'Refresh Wikidata descriptive metadata'
+          title: 'Review Wikidata metadata refresh'
+          body: 'Automated descriptions only. Review source identity and claims before merging. No relationship changes are generated.'
+          branch: automated-wikidata-review
+          delete-branch: true
