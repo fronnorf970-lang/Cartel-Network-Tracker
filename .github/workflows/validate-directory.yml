@@ -7,6 +7,7 @@ on:
       - "data/master_network.json"
       - "scripts/validate_directory.py"
       - ".github/workflows/validate-directory.yml"
+
   workflow_dispatch:
 
 permissions:
@@ -18,17 +19,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Pull Request 2
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event_name == 'workflow_dispatch' && 'refs/pull/2/head' || github.sha }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
+      - name: Get validator from main
+        run: |
+          git show origin/main:scripts/validate_directory.py > /tmp/validate_directory.py
+
       - name: Validate directory
         run: |
-          python scripts/validate_directory.py \
+          python /tmp/validate_directory.py \
             data/master_network.json \
             --report directory_validation_report.json
 
