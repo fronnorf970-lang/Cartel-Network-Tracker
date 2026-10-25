@@ -64,7 +64,12 @@ def main():
             failures.append(f'{qid}: {exc}')
         time.sleep(2)
     if failures:
-        raise RuntimeError('Discovery incomplete; existing dataset preserved. '+ '; '.join(failures))
+        print(
+    "NOTICE: Wikidata discovery incomplete. "
+    "Existing dataset preserved. "
+    + "; ".join(failures)
+)
+return
     for key,node in results.items():
         if key not in old:old[key]=node
     obj['nodes']=sorted(old.values(),key=lambda x:x['name'].casefold())
