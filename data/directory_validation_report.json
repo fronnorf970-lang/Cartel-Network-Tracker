@@ -1,0 +1,167 @@
+{
+  "summary": {
+    "nodes": 242,
+    "imported_wikidata_nodes": 222,
+    "links": 3,
+    "errors": 0,
+    "review_flags": 25,
+    "by_code": {
+      "DUPLICATE_NAME": 11,
+      "EMPTY_DESCRIPTION": 7,
+      "MISSING_SOURCE": 2,
+      "POSSIBLE_MISCLASSIFICATION": 5
+    }
+  },
+  "findings": [
+    {
+      "severity": "review",
+      "code": "DUPLICATE_NAME",
+      "record": "chapitos, wd_Q130341160",
+      "message": "Same normalized name: Los Chapitos, Los Chapitos"
+    },
+    {
+      "severity": "review",
+      "code": "DUPLICATE_NAME",
+      "record": "cjng, wd_Q6126837",
+      "message": "Same normalized name: Jalisco New Generation Cartel, Jalisco New Generation Cartel"
+    },
+    {
+      "severity": "review",
+      "code": "DUPLICATE_NAME",
+      "record": "familia, wd_Q1384591",
+      "message": "Same normalized name: La Familia Michoacana, La Familia Michoacana"
+    },
+    {
+      "severity": "review",
+      "code": "DUPLICATE_NAME",
+      "record": "gulf, wd_Q1473300",
+      "message": "Same normalized name: Gulf Cartel, Gulf Cartel"
+    },
+    {
+      "severity": "review",
+      "code": "DUPLICATE_NAME",
+      "record": "juarez, wd_Q1575189",
+      "message": "Same normalized name: Juárez Cartel, Juárez Cartel"
+    },
+    {
+      "severity": "review",
+      "code": "DUPLICATE_NAME",
+      "record": "mayiza, wd_Q141223584",
+      "message": "Same normalized name: La Mayiza, La Mayiza"
+    },
+    {
+      "severity": "review",
+      "code": "DUPLICATE_NAME",
+      "record": "santa_rosa, wd_Q76215185",
+      "message": "Same normalized name: Santa Rosa de Lima Cartel, Santa Rosa de Lima Cartel"
+    },
+    {
+      "severity": "review",
+      "code": "DUPLICATE_NAME",
+      "record": "sinaloa, wd_Q1586503",
+      "message": "Same normalized name: Sinaloa Cartel, Sinaloa Cartel"
+    },
+    {
+      "severity": "review",
+      "code": "DUPLICATE_NAME",
+      "record": "templarios, wd_Q6422424",
+      "message": "Same normalized name: Knights Templar Cartel, Knights Templar Cartel"
+    },
+    {
+      "severity": "review",
+      "code": "DUPLICATE_NAME",
+      "record": "union, wd_Q100326550",
+      "message": "Same normalized name: La Unión Tepito, La Unión Tepito"
+    },
+    {
+      "severity": "review",
+      "code": "DUPLICATE_NAME",
+      "record": "zetas, wd_Q248337",
+      "message": "Same normalized name: Los Zetas, Los Zetas"
+    },
+    {
+      "severity": "review",
+      "code": "EMPTY_DESCRIPTION",
+      "record": "wd_Q133830679",
+      "message": "No description; needs manual research"
+    },
+    {
+      "severity": "review",
+      "code": "EMPTY_DESCRIPTION",
+      "record": "wd_Q133885647",
+      "message": "No description; needs manual research"
+    },
+    {
+      "severity": "review",
+      "code": "EMPTY_DESCRIPTION",
+      "record": "wd_Q138860801",
+      "message": "No description; needs manual research"
+    },
+    {
+      "severity": "review",
+      "code": "EMPTY_DESCRIPTION",
+      "record": "wd_Q17019569",
+      "message": "No description; needs manual research"
+    },
+    {
+      "severity": "review",
+      "code": "EMPTY_DESCRIPTION",
+      "record": "wd_Q2567706",
+      "message": "No description; needs manual research"
+    },
+    {
+      "severity": "review",
+      "code": "EMPTY_DESCRIPTION",
+      "record": "wd_Q5869428",
+      "message": "No description; needs manual research"
+    },
+    {
+      "severity": "review",
+      "code": "EMPTY_DESCRIPTION",
+      "record": "wd_Q63196",
+      "message": "No description; needs manual research"
+    },
+    {
+      "severity": "review",
+      "code": "MISSING_SOURCE",
+      "record": "lobos",
+      "message": "No source URLs"
+    },
+    {
+      "severity": "review",
+      "code": "MISSING_SOURCE",
+      "record": "mayiza",
+      "message": "No source URLs"
+    },
+    {
+      "severity": "review",
+      "code": "POSSIBLE_MISCLASSIFICATION",
+      "record": "wd_Q15145712",
+      "message": "Description conflicts with category: historic nightclub in San Francisco featuring entertainment by female impersonators"
+    },
+    {
+      "severity": "review",
+      "code": "POSSIBLE_MISCLASSIFICATION",
+      "record": "wd_Q327646",
+      "message": "Description conflicts with category: American energy company"
+    },
+    {
+      "severity": "review",
+      "code": "POSSIBLE_MISCLASSIFICATION",
+      "record": "wd_Q5276636",
+      "message": "Description conflicts with category: Bohemian club in Chicago"
+    },
+    {
+      "severity": "review",
+      "code": "POSSIBLE_MISCLASSIFICATION",
+      "record": "wd_Q692398",
+      "message": "Description conflicts with category: terrorist attack planned for January 1995"
+    },
+    {
+      "severity": "review",
+      "code": "POSSIBLE_MISCLASSIFICATION",
+      "record": "wd_Q87732338",
+      "message": "Description conflicts with category: Historic lesbian bar in New York City"
+    }
+  ]
+}
