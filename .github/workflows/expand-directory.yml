@@ -1,0 +1,26 @@
+name: Expand public-source directory
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '40 8 1 * *'
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  expand:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/expand_directory.py
+      - run: python scripts/validate_network.py
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: wikidata-directory-candidates
+          delete-branch: true
+          commit-message: 'Propose public Wikidata directory candidates'
+          title: 'Review new Wikidata organizations and figures'
+          body: 'UNREVIEWED discovery candidates. Review names, classification, country and sources before merging. No new relationships or current-activity claims are generated.'
