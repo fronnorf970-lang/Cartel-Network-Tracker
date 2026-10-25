@@ -3,140 +3,297 @@
     "title": "Public-source organization directory and illustrative network",
     "version": "2.0",
     "published": "2026-10-25",
-    "note": "Wikipedia links are references for entity identity only. No current activity, territory, or relationship is inferred. All existing illustrative edges are unverified."
+    "note": "Wikipedia links are references for entity identity only. No current activity, territory, or relationship is inferred. All existing illustrative edges are unverified.",
+    "discovery_note": "Wikidata candidates are unreviewed. No relationships or current status inferred."
   },
   "nodes": [
     {
-      "id": "chapitos",
-      "name": "Los Chapitos",
-      "tier": "Core Syndicate Faction",
+      "id": "wd_Q116701060",
+      "name": "110ers",
+      "tier": "Gang",
+      "entity_type": "organization",
       "regions": [
-        "Sinaloa"
+        "United States"
       ],
-      "leadership": {
-        "status": "Unverified",
-        "key_figures": []
-      },
-      "funding_streams": [],
+      "description": "American criminal organization",
       "source_urls": [
-        "https://www.wikidata.org/wiki/Q170602"
+        "http://www.wikidata.org/entity/Q116701060"
       ],
-      "verification": "Entity label only; relationship and operational claims not verified"
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q116701060"
     },
     {
-      "id": "mayiza",
-      "name": "La Mayiza",
-      "tier": "Core Syndicate Faction",
+      "id": "wd_Q124618061",
+      "name": "2020–2022 catalytic converter theft ring",
+      "tier": "Gang",
+      "entity_type": "organization",
       "regions": [
-        "Sinaloa"
+        "United States"
       ],
-      "leadership": {
-        "status": "Unverified",
-        "key_figures": []
-      },
-      "funding_streams": [],
-      "source_urls": [],
-      "verification": "Entity label only; relationship and operational claims not verified"
-    },
-    {
-      "id": "cjng",
-      "name": "Jalisco New Generation Cartel",
-      "tier": "Core Syndicate Faction",
-      "regions": [
-        "Jalisco"
-      ],
-      "leadership": {
-        "status": "Unverified",
-        "key_figures": []
-      },
-      "funding_streams": [],
+      "description": "American organized criminal group",
       "source_urls": [
-        "https://en.wikipedia.org/wiki/Jalisco_New_Generation_Cartel"
+        "http://www.wikidata.org/entity/Q124618061"
       ],
-      "verification": "Entity label only; relationship and operational claims not verified"
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q124618061"
     },
     {
-      "id": "lobos",
-      "name": "Los Lobos (Ecuador)",
-      "tier": "Regional Faction",
+      "id": "wd_Q4636050",
+      "name": "38th Street gang",
+      "tier": "Gang",
+      "entity_type": "organization",
       "regions": [
-        "Ecuador"
+        "United States"
       ],
-      "leadership": {
-        "status": "Unverified",
-        "key_figures": []
-      },
-      "funding_streams": [],
-      "source_urls": [],
-      "verification": "Entity label only; relationship and operational claims not verified"
+      "description": "street gang in California",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q4636050"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q4636050"
     },
     {
-      "id": "sinaloa",
-      "name": "Sinaloa Cartel",
-      "tier": "Publicly documented organization",
+      "id": "wd_Q131374946",
+      "name": "764",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "child exploitation network",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q131374946"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q131374946"
+    },
+    {
+      "id": "wd_Q1026717",
+      "name": "agustina Silva líder del cartel cali",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "disbanded drug cartel which was based in southern Colombia",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1026717"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1026717"
+    },
+    {
+      "id": "wd_Q880460",
+      "name": "Almighty Black P. Stone Nation",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American street gang founded in Chicago",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q880460"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q880460"
+    },
+    {
+      "id": "wd_Q4347055",
+      "name": "Almighty Vice Lord Nation",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "african-American street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q4347055"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q4347055"
+    },
+    {
+      "id": "wd_Q58853323",
+      "name": "American Burger",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "one of first Korean American street gang in California",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q58853323"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q58853323"
+    },
+    {
+      "id": "wd_Q689801",
+      "name": "Army of God",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "anti abortion organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q689801"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q689801"
+    },
+    {
+      "id": "wd_Q4801247",
+      "name": "Artistas Asesinos",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
       "regions": [
         "Mexico"
       ],
-      "leadership": {
-        "status": "Not assessed",
-        "key_figures": []
-      },
-      "funding_streams": [],
+      "description": "Mexican street gang and armed branch of the Sinaloa Cartel",
       "source_urls": [
-        "https://en.wikipedia.org/wiki/Sinaloa_Cartel"
+        "http://www.wikidata.org/entity/Q4801247"
       ],
-      "verification": "Entity identity reference only; no operational claims verified"
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q4801247"
     },
     {
-      "id": "gulf",
-      "name": "Gulf Cartel",
-      "tier": "Publicly documented organization",
+      "id": "wd_Q717903",
+      "name": "Aryan Brotherhood",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "neo-Nazi prison gang and organized crime syndicate",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q717903"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q717903"
+    },
+    {
+      "id": "wd_Q39056878",
+      "name": "Atomwaffen Division",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "international Neo-Nazi terrorist network",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q39056878"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q39056878"
+    },
+    {
+      "id": "wd_Q806322",
+      "name": "Bandidos Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "motorcycle gang and organized crime syndicate",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q806322"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q806322"
+    },
+    {
+      "id": "wd_Q3635212",
+      "name": "Barrow Gang",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "great depression era gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q3635212"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q3635212"
+    },
+    {
+      "id": "wd_Q2567706",
+      "name": "Bath Avenue crew",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q2567706"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q2567706"
+    },
+    {
+      "id": "wd_Q133885647",
+      "name": "Bathtub Gin",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q133885647"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q133885647"
+    },
+    {
+      "id": "wd_Q4873862",
+      "name": "Baxter Street Dudes",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "1870s New York City teenage street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q4873862"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q4873862"
+    },
+    {
+      "id": "wd_Q816215",
+      "name": "Beltrán Leyva Cartel",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
       "regions": [
         "Mexico"
       ],
-      "leadership": {
-        "status": "Not assessed",
-        "key_figures": []
-      },
-      "funding_streams": [],
+      "description": "Mexican drug cartel and organized crime syndicate",
       "source_urls": [
-        "https://en.wikipedia.org/wiki/Gulf_Cartel"
+        "http://www.wikidata.org/entity/Q816215"
       ],
-      "verification": "Entity identity reference only; no operational claims verified"
-    },
-    {
-      "id": "zetas",
-      "name": "Los Zetas",
-      "tier": "Publicly documented organization",
-      "regions": [
-        "Mexico"
-      ],
-      "leadership": {
-        "status": "Not assessed",
-        "key_figures": []
-      },
-      "funding_streams": [],
-      "source_urls": [
-        "https://en.wikipedia.org/wiki/Los_Zetas"
-      ],
-      "verification": "Entity identity reference only; no operational claims verified"
-    },
-    {
-      "id": "northeast",
-      "name": "Northeast Cartel",
-      "tier": "Publicly documented organization",
-      "regions": [
-        "Mexico"
-      ],
-      "leadership": {
-        "status": "Not assessed",
-        "key_figures": []
-      },
-      "funding_streams": [],
-      "source_urls": [
-        "https://en.wikipedia.org/wiki/Northeast_Cartel"
-      ],
-      "verification": "Entity identity reference only; no operational claims verified"
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q816215"
     },
     {
       "id": "beltran",
@@ -156,106 +313,356 @@
       "verification": "Entity identity reference only; no operational claims verified"
     },
     {
-      "id": "familia",
-      "name": "La Familia Michoacana",
-      "tier": "Publicly documented organization",
+      "id": "wd_Q2905362",
+      "name": "Black Disciples",
+      "tier": "Gang",
+      "entity_type": "organization",
       "regions": [
-        "Mexico"
+        "United States"
       ],
-      "leadership": {
-        "status": "Not assessed",
-        "key_figures": []
-      },
-      "funding_streams": [],
+      "description": "street gang based in Chicago, USA",
       "source_urls": [
-        "https://en.wikipedia.org/wiki/La_Familia_Michoacana"
+        "http://www.wikidata.org/entity/Q2905362"
       ],
-      "verification": "Entity identity reference only; no operational claims verified"
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q2905362"
     },
     {
-      "id": "templarios",
-      "name": "Knights Templar Cartel",
-      "tier": "Publicly documented organization",
+      "id": "wd_Q2905437",
+      "name": "Black P. Stones",
+      "tier": "Gang",
+      "entity_type": "organization",
       "regions": [
-        "Mexico"
+        "United States"
       ],
-      "leadership": {
-        "status": "Not assessed",
-        "key_figures": []
-      },
-      "funding_streams": [],
+      "description": "african-American street gang",
       "source_urls": [
-        "https://en.wikipedia.org/wiki/Knights_Templar_Cartel"
+        "http://www.wikidata.org/entity/Q2905437"
       ],
-      "verification": "Entity identity reference only; no operational claims verified"
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q2905437"
     },
     {
-      "id": "juarez",
-      "name": "Juárez Cartel",
-      "tier": "Publicly documented organization",
+      "id": "wd_Q17019569",
+      "name": "Black Sabbath Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
       "regions": [
-        "Mexico"
+        "United States"
       ],
-      "leadership": {
-        "status": "Not assessed",
-        "key_figures": []
-      },
-      "funding_streams": [],
+      "description": "",
       "source_urls": [
-        "https://en.wikipedia.org/wiki/Ju%C3%A1rez_Cartel"
+        "http://www.wikidata.org/entity/Q17019569"
       ],
-      "verification": "Entity identity reference only; no operational claims verified"
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q17019569"
     },
     {
-      "id": "tijuana",
-      "name": "Tijuana Cartel",
-      "tier": "Publicly documented organization",
+      "id": "wd_Q12476488",
+      "name": "Black Spades",
+      "tier": "Gang",
+      "entity_type": "organization",
       "regions": [
-        "Mexico"
+        "United States"
       ],
-      "leadership": {
-        "status": "Not assessed",
-        "key_figures": []
-      },
-      "funding_streams": [],
+      "description": "New York street gang",
       "source_urls": [
-        "https://en.wikipedia.org/wiki/Tijuana_Cartel"
+        "http://www.wikidata.org/entity/Q12476488"
       ],
-      "verification": "Entity identity reference only; no operational claims verified"
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q12476488"
     },
     {
-      "id": "santa_rosa",
-      "name": "Santa Rosa de Lima Cartel",
-      "tier": "Publicly documented organization",
+      "id": "wd_Q4928112",
+      "name": "Bloody Tubs",
+      "tier": "Gang",
+      "entity_type": "organization",
       "regions": [
-        "Mexico"
+        "United States"
       ],
-      "leadership": {
-        "status": "Not assessed",
-        "key_figures": []
-      },
-      "funding_streams": [],
+      "description": "gang of opportunistic street thugs",
       "source_urls": [
-        "https://en.wikipedia.org/wiki/Santa_Rosa_de_Lima_Cartel"
+        "http://www.wikidata.org/entity/Q4928112"
       ],
-      "verification": "Entity identity reference only; no operational claims verified"
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q4928112"
     },
     {
-      "id": "union",
-      "name": "La Unión Tepito",
-      "tier": "Publicly documented organization",
+      "id": "wd_Q692398",
+      "name": "Bojinka plot",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "terrorist attack planned for January 1995",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q692398"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q692398"
+    },
+    {
+      "id": "wd_Q4945971",
+      "name": "Born to Kill",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "1980s/1990s Vietnamese gang in New York City",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q4945971"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q4945971"
+    },
+    {
+      "id": "wd_Q16823999",
+      "name": "Bottoms Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q16823999"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q16823999"
+    },
+    {
+      "id": "wd_Q4950934",
+      "name": "Bowery Boys",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Nineteenth century New York gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q4950934"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q4950934"
+    },
+    {
+      "id": "wd_Q4974902",
+      "name": "Brooklyn Thrill Killers",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Group of five American murderers",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q4974902"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q4974902"
+    },
+    {
+      "id": "wd_Q4975561",
+      "name": "Brother Speed",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American outlaw motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q4975561"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q4975561"
+    },
+    {
+      "id": "wd_Q55639385",
+      "name": "Byrd Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q55639385"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q55639385"
+    },
+    {
+      "id": "wd_Q108738056",
+      "name": "Caborca Cartel",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
       "regions": [
         "Mexico"
       ],
-      "leadership": {
-        "status": "Not assessed",
-        "key_figures": []
-      },
-      "funding_streams": [],
+      "description": "Mexican cartel",
       "source_urls": [
-        "https://en.wikipedia.org/wiki/La_Uni%C3%B3n_Tepito"
+        "http://www.wikidata.org/entity/Q108738056"
       ],
-      "verification": "Entity identity reference only; no operational claims verified"
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q108738056"
+    },
+    {
+      "id": "wd_Q5026905",
+      "name": "Camorra in New York",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "early 20th-century organized crime groups",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5026905"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5026905"
+    },
+    {
+      "id": "wd_Q138860801",
+      "name": "Cartel de Tepalcatepec",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q138860801"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q138860801"
+    },
+    {
+      "id": "wd_Q133830679",
+      "name": "Chamula cartel",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q133830679"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q133830679"
+    },
+    {
+      "id": "wd_Q3666637",
+      "name": "Charlestown Mob",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "organized crime group",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q3666637"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q3666637"
+    },
+    {
+      "id": "wd_Q138949588",
+      "name": "Chiapas-Guatemala cartel",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Cartel in Chiapas and Guatemala",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q138949588"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q138949588"
+    },
+    {
+      "id": "wd_Q2963316",
+      "name": "Chicago Gaylords",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Street gang from Chicago",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q2963316"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q2963316"
+    },
+    {
+      "id": "wd_Q118255777",
+      "name": "Chicano Liberation Front",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "former underground revolutionary group in California",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q118255777"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q118255777"
+    },
+    {
+      "id": "wd_Q5105338",
+      "name": "Chosen Few Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5105338"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5105338"
+    },
+    {
+      "id": "wd_Q5116280",
+      "name": "Chung Ching Yee",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "name of a defunct Chinese-American youth gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5116280"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5116280"
     },
     {
       "id": "clan_golfo",
@@ -275,38 +682,84 @@
       "verification": "Entity identity reference only; no operational claims verified"
     },
     {
-      "id": "eln",
-      "name": "National Liberation Army (ELN)",
-      "tier": "Publicly documented organization",
+      "id": "wd_Q63196",
+      "name": "Clanton 14",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
       "regions": [
-        "Colombia"
+        "United States"
       ],
-      "leadership": {
-        "status": "Not assessed",
-        "key_figures": []
-      },
-      "funding_streams": [],
+      "description": "",
       "source_urls": [
-        "https://en.wikipedia.org/wiki/National_Liberation_Army_(Colombia)"
+        "http://www.wikidata.org/entity/Q63196"
       ],
-      "verification": "Entity identity reference only; no operational claims verified"
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q63196"
     },
     {
-      "id": "pcc",
-      "name": "Primeiro Comando da Capital",
-      "tier": "Publicly documented organization",
+      "id": "wd_Q3908480",
+      "name": "Cleveland crime family",
+      "tier": "Gang",
+      "entity_type": "organization",
       "regions": [
-        "Brazil"
+        "United States"
       ],
-      "leadership": {
-        "status": "Not assessed",
-        "key_figures": []
-      },
-      "funding_streams": [],
+      "description": "succession of organized crime gangs based in Cleveland, Ohio, United States",
       "source_urls": [
-        "https://en.wikipedia.org/wiki/Primeiro_Comando_da_Capital"
+        "http://www.wikidata.org/entity/Q3908480"
       ],
-      "verification": "Entity identity reference only; no operational claims verified"
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q3908480"
+    },
+    {
+      "id": "wd_Q4863712",
+      "name": "CLH",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican-American gang originally based in El Paso, Texas",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q4863712"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q4863712"
+    },
+    {
+      "id": "wd_Q1812870",
+      "name": "Colima Cartel",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "drug cartel from Mexico",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1812870"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1812870"
+    },
+    {
+      "id": "wd_Q22073789",
+      "name": "Columbia Point Dawgs",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "street gang from Boston",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q22073789"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q22073789"
     },
     {
       "id": "comando_vermelho",
@@ -326,6 +779,2899 @@
       "verification": "Entity identity reference only; no operational claims verified"
     },
     {
+      "id": "wd_Q131480671",
+      "name": "Comandos F-4",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Anti-Cuban terrorist organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q131480671"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q131480671"
+    },
+    {
+      "id": "wd_Q61940556",
+      "name": "Continentals (gang)",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Chinese American street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q61940556"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q61940556"
+    },
+    {
+      "id": "wd_Q117599049",
+      "name": "Crenshaw Mafia Gangster Bloods",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Subgroup of Bloods street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q117599049"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q117599049"
+    },
+    {
+      "id": "wd_Q486682",
+      "name": "Crips",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "street gang founded by Raymond Washington and Stan Williams in Los Angeles, California, USA",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q486682"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q486682"
+    },
+    {
+      "id": "wd_Q5193721",
+      "name": "Culver City Boys 13",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "mexican-American street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5193721"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5193721"
+    },
+    {
+      "id": "wd_Q124791905",
+      "name": "Cártel de los Alemanes",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q124791905"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q124791905"
+    },
+    {
+      "id": "wd_Q1784430",
+      "name": "Cártel de Tijuana",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "mexican drug cartel based in Tijuana, mexico",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1784430"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1784430"
+    },
+    {
+      "id": "wd_Q30252556",
+      "name": "Cártel del Noreste",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican drug cartel and terrorist organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q30252556"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q30252556"
+    },
+    {
+      "id": "wd_Q105609328",
+      "name": "Cártel del Sur",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican cartel from the state of Guerrero",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q105609328"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q105609328"
+    },
+    {
+      "id": "wd_Q6464843",
+      "name": "Cárteles Unidos",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican criminal organization Papichava",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6464843"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6464843"
+    },
+    {
+      "id": "wd_Q5203365",
+      "name": "D.C. Blacks",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "African-American prison gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5203365"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5203365"
+    },
+    {
+      "id": "wd_Q5211455",
+      "name": "Dallas crime family",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American Mafia crime family",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5211455"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5211455"
+    },
+    {
+      "id": "wd_Q16989221",
+      "name": "Daybreak Boys",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "19th-century New York City street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q16989221"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q16989221"
+    },
+    {
+      "id": "wd_Q5243849",
+      "name": "DeAutremont Brothers",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Pacific-Northwest criminal gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5243849"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5243849"
+    },
+    {
+      "id": "wd_Q5249090",
+      "name": "Decepticons",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Brooklyn street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5249090"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5249090"
+    },
+    {
+      "id": "wd_Q5259813",
+      "name": "Denver crime family",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Denver Crime Family",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5259813"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5259813"
+    },
+    {
+      "id": "wd_Q1206827",
+      "name": "Devils Diciples",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American outlaw motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1206827"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1206827"
+    },
+    {
+      "id": "wd_Q5270178",
+      "name": "Diablos Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5270178"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5270178"
+    },
+    {
+      "id": "wd_Q5276636",
+      "name": "Dill Pickle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Bohemian club in Chicago",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5276636"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5276636"
+    },
+    {
+      "id": "wd_Q5290890",
+      "name": "Dominicans Don't Play",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "New York-based street gang of Latino youths whose heritage is traced to the Dominican Republic",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5290890"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5290890"
+    },
+    {
+      "id": "wd_Q5327813",
+      "name": "East Bay Dragons",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5327813"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5327813"
+    },
+    {
+      "id": "wd_Q5329028",
+      "name": "East Nashville Crips",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "african-American street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5329028"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5329028"
+    },
+    {
+      "id": "wd_Q5347673",
+      "name": "Egan's Rats",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American organized crime group",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5347673"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5347673"
+    },
+    {
+      "id": "wd_Q5351284",
+      "name": "El Forastero Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Motorcycle Club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5351284"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5351284"
+    },
+    {
+      "id": "wd_Q327646",
+      "name": "Enron",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American energy company",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q327646"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q327646"
+    },
+    {
+      "id": "wd_Q5395576",
+      "name": "Errol Flynns",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "street gang, founded on the lower east side of Detroit, Michigan",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5395576"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5395576"
+    },
+    {
+      "id": "wd_Q87732338",
+      "name": "Eve's Hangout",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Historic lesbian bar in New York City",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q87732338"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q87732338"
+    },
+    {
+      "id": "wd_Q132735789",
+      "name": "Feuerkrieg Division",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "neo-Nazi, accelerationist and white supremacist terrorist organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q132735789"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q132735789"
+    },
+    {
+      "id": "wd_Q15145712",
+      "name": "Finocchio's Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "historic nightclub in San Francisco featuring entertainment by female impersonators",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q15145712"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q15145712"
+    },
+    {
+      "id": "wd_Q976910",
+      "name": "Five Points Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "19th-century street gang in New York City",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q976910"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q976910"
+    },
+    {
+      "id": "wd_Q30591193",
+      "name": "Florencia 13",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "mexican-American street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q30591193"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q30591193"
+    },
+    {
+      "id": "wd_Q5460944",
+      "name": "Flores Daniel Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "19th-century criminal gang in California",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5460944"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5460944"
+    },
+    {
+      "id": "wd_Q5470059",
+      "name": "Formby Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "criminal Chicago street gang in late 1890s to early 1900s",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5470059"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5470059"
+    },
+    {
+      "id": "wd_Q1439148",
+      "name": "Forty-Two Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "teenage street gang in Chicago, Illinois, USA",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1439148"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1439148"
+    },
+    {
+      "id": "wd_Q5475062",
+      "name": "Four Corner Hustlers",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "street gang from Chicago",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5475062"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5475062"
+    },
+    {
+      "id": "wd_Q1454228",
+      "name": "Freight Train Riders of America",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Supposed group of Americans who move by freight hopping in the northwestern United States",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1454228"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1454228"
+    },
+    {
+      "id": "wd_Q5869428",
+      "name": "Frente de Liberación Nacional Cubano",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5869428"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5869428"
+    },
+    {
+      "id": "wd_Q5508286",
+      "name": "Fullerton Boys",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Korean American gang group",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5508286"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5508286"
+    },
+    {
+      "id": "wd_Q3867181",
+      "name": "Gangster Disciples",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "organization which was formed on the South-side of Chicago",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q3867181"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q3867181"
+    },
+    {
+      "id": "wd_Q58853090",
+      "name": "Garden Grove Boyz",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Korean American gang group",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q58853090"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q58853090"
+    },
+    {
+      "id": "wd_Q5526294",
+      "name": "Gas House Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "New York street gang during the late nineteenth century",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5526294"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5526294"
+    },
+    {
+      "id": "wd_Q5533592",
+      "name": "Gente Nueva",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5533592"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5533592"
+    },
+    {
+      "id": "wd_Q166797",
+      "name": "Gopher Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q166797"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q166797"
+    },
+    {
+      "id": "wd_Q5592128",
+      "name": "Grady Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "criminal group led by John D. Grady in New York in the 1860s",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5592128"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5592128"
+    },
+    {
+      "id": "wd_Q5596997",
+      "name": "Grape Street Crips",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "African-American street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5596997"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5596997"
+    },
+    {
+      "id": "wd_Q5603251",
+      "name": "Green Street Counts",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Philadelphia Street Gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5603251"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5603251"
+    },
+    {
+      "id": "wd_Q5609204",
+      "name": "Grim Reapers Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American outlaw motorcycle club (MC) established in 1965",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5609204"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5609204"
+    },
+    {
+      "id": "wd_Q2562795",
+      "name": "Guadalajara Cartel",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican drug cartel",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q2562795"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q2562795"
+    },
+    {
+      "id": "wd_Q18549879",
+      "name": "Guerreros Unidos",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican organized crime group",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q18549879"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q18549879"
+    },
+    {
+      "id": "gulf",
+      "name": "Gulf Cartel",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Gulf_Cartel"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "wd_Q1473300",
+      "name": "Gulf Cartel",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "criminal group based in Tamaulipas",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1473300"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1473300"
+    },
+    {
+      "id": "wd_Q5621622",
+      "name": "Gustin Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "1920s Irish-American criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5621622"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5621622"
+    },
+    {
+      "id": "wd_Q1558498",
+      "name": "Gypsy Joker Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1558498"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1558498"
+    },
+    {
+      "id": "wd_Q1573857",
+      "name": "Hammerskins",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "national socialist street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1573857"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1573857"
+    },
+    {
+      "id": "wd_Q622188",
+      "name": "Hells Angels (disbanded)",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "outlaw motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q622188"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q622188"
+    },
+    {
+      "id": "wd_Q5752005",
+      "name": "Hidden Valley Kings",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5752005"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5752005"
+    },
+    {
+      "id": "wd_Q1294957",
+      "name": "Highwaymen Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1294957"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1294957"
+    },
+    {
+      "id": "wd_Q5877063",
+      "name": "Hogan Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Prohibition-era criminal organization based in St. Louis, Missouri",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5877063"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5877063"
+    },
+    {
+      "id": "wd_Q114316103",
+      "name": "Howard's Club H",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "music venue and historic bar",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q114316103"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q114316103"
+    },
+    {
+      "id": "wd_Q1265136",
+      "name": "Hudson Dusters",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "early twentieth century New York City street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1265136"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1265136"
+    },
+    {
+      "id": "wd_Q5943832",
+      "name": "Hunt-Gant Gang",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Depression-era gangsters",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q5943832"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q5943832"
+    },
+    {
+      "id": "wd_Q3539281",
+      "name": "ILLUMINATI",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Dominican American criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q3539281"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q3539281"
+    },
+    {
+      "id": "wd_Q6016434",
+      "name": "Independent Cartel of Acapulco",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "drug cartel from Mexico",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6016434"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6016434"
+    },
+    {
+      "id": "wd_Q6072616",
+      "name": "Iron Horsemen",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6072616"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6072616"
+    },
+    {
+      "id": "wd_Q16997532",
+      "name": "Jackson Street Boys",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q16997532"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q16997532"
+    },
+    {
+      "id": "wd_Q51920236",
+      "name": "Jade Syndicate",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "group of criminals in Marvel comics",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q51920236"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q51920236"
+    },
+    {
+      "id": "cjng",
+      "name": "Jalisco New Generation Cartel",
+      "tier": "Core Syndicate Faction",
+      "regions": [
+        "Jalisco"
+      ],
+      "leadership": {
+        "status": "Unverified",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Jalisco_New_Generation_Cartel"
+      ],
+      "verification": "Entity label only; relationship and operational claims not verified"
+    },
+    {
+      "id": "wd_Q6126837",
+      "name": "Jalisco New Generation Cartel",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican narco-terrorist organization and paramilitary group",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6126837"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6126837"
+    },
+    {
+      "id": "wd_Q942440",
+      "name": "James-Younger Gang",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q942440"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q942440"
+    },
+    {
+      "id": "wd_Q112644034",
+      "name": "Jane's Revenge",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American militant extremist pro-choice rights group",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q112644034"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q112644034"
+    },
+    {
+      "id": "wd_Q275445",
+      "name": "Jewish Defense League",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Jewish far-right Zinonist terrorist organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q275445"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q275445"
+    },
+    {
+      "id": "wd_Q3187129",
+      "name": "Jousters",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Chicago street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q3187129"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q3187129"
+    },
+    {
+      "id": "wd_Q6304825",
+      "name": "Juggalo gangs",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American gangs who use the name and associated imagery of Juggalo culture",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6304825"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6304825"
+    },
+    {
+      "id": "juarez",
+      "name": "Juárez Cartel",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Ju%C3%A1rez_Cartel"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "wd_Q1575189",
+      "name": "Juárez Cartel",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico",
+        "United States"
+      ],
+      "description": "Mexican drug cartel",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1575189"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1575189"
+    },
+    {
+      "id": "wd_Q16851512",
+      "name": "K&A Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Irish American Mob in the Criminal Underworld",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q16851512"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q16851512"
+    },
+    {
+      "id": "wd_Q6394706",
+      "name": "Kerryonians",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6394706"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6394706"
+    },
+    {
+      "id": "wd_Q111940469",
+      "name": "Kinfolk Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American outlaw motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q111940469"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q111940469"
+    },
+    {
+      "id": "templarios",
+      "name": "Knights Templar Cartel",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Knights_Templar_Cartel"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "wd_Q6422424",
+      "name": "Knights Templar Cartel",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6422424"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6422424"
+    },
+    {
+      "id": "wd_Q6436508",
+      "name": "Krazy Kat Klub",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Jazz Age speakeasy in Washington, D.C.",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6436508"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6436508"
+    },
+    {
+      "id": "wd_Q6461135",
+      "name": "La Barredora",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican drug cartel",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6461135"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6461135"
+    },
+    {
+      "id": "familia",
+      "name": "La Familia Michoacana",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/La_Familia_Michoacana"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "wd_Q1384591",
+      "name": "La Familia Michoacana",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican drug cartel and organized crime syndicate",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1384591"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1384591"
+    },
+    {
+      "id": "mayiza",
+      "name": "La Mayiza",
+      "tier": "Core Syndicate Faction",
+      "regions": [
+        "Sinaloa"
+      ],
+      "leadership": {
+        "status": "Unverified",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [],
+      "verification": "Entity label only; relationship and operational claims not verified"
+    },
+    {
+      "id": "wd_Q141223584",
+      "name": "La Mayiza",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican cartel",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q141223584"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q141223584"
+    },
+    {
+      "id": "wd_Q6464776",
+      "name": "La Raza Nation",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "street gang founded in Chicago in 1972",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6464776"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6464776"
+    },
+    {
+      "id": "union",
+      "name": "La Unión Tepito",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/La_Uni%C3%B3n_Tepito"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "wd_Q100326550",
+      "name": "La Unión Tepito",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Criminal group which operates in the metropolitan area of Estado de México and Ciudad de México",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q100326550"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q100326550"
+    },
+    {
+      "id": "wd_Q107565556",
+      "name": "Larry and Danny Ranes",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "convicted American serial killers",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q107565556"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q107565556"
+    },
+    {
+      "id": "wd_Q58853203",
+      "name": "Last Generation Korean Killers",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Korean American gang group",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q58853203"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q58853203"
+    },
+    {
+      "id": "wd_Q534297",
+      "name": "Latin Kings",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "largest Latino street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q534297"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q534297"
+    },
+    {
+      "id": "wd_Q6523158",
+      "name": "Lenox Avenue Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "pre-Prohibition NYC gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6523158"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6523158"
+    },
+    {
+      "id": "wd_Q29641612",
+      "name": "Lenox Street Boys",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q29641612"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q29641612"
+    },
+    {
+      "id": "wd_Q87842790",
+      "name": "Lindauer criminal organization",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "criminal organization in Hudson County, New Jersey",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q87842790"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q87842790"
+    },
+    {
+      "id": "wd_Q16960824",
+      "name": "Live Oak Boys",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q16960824"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q16960824"
+    },
+    {
+      "id": "wd_Q125243598",
+      "name": "Lopers",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Mexican American street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q125243598"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q125243598"
+    },
+    {
+      "id": "wd_Q6680163",
+      "name": "Lords of Chaos",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "1996 teen criminal group",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6680163"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6680163"
+    },
+    {
+      "id": "wd_Q108228850",
+      "name": "Los Ardillos",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican criminal organization based in the state of Guerrero",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q108228850"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q108228850"
+    },
+    {
+      "id": "chapitos",
+      "name": "Los Chapitos",
+      "tier": "Core Syndicate Faction",
+      "regions": [
+        "Sinaloa"
+      ],
+      "leadership": {
+        "status": "Unverified",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://www.wikidata.org/wiki/Q170602"
+      ],
+      "verification": "Entity label only; relationship and operational claims not verified"
+    },
+    {
+      "id": "wd_Q130341160",
+      "name": "Los Chapitos",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Grupo criminal oriundo de Sinaloa",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q130341160"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q130341160"
+    },
+    {
+      "id": "wd_Q106205072",
+      "name": "Los Correa",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q106205072"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q106205072"
+    },
+    {
+      "id": "lobos",
+      "name": "Los Lobos (Ecuador)",
+      "tier": "Regional Faction",
+      "regions": [
+        "Ecuador"
+      ],
+      "leadership": {
+        "status": "Unverified",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [],
+      "verification": "Entity label only; relationship and operational claims not verified"
+    },
+    {
+      "id": "wd_Q6682953",
+      "name": "Los Metros",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "faction of a Mexican drug trafficking organization known as the Gulf Cartel",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6682953"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6682953"
+    },
+    {
+      "id": "wd_Q6682956",
+      "name": "Los Mexicles",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6682956"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6682956"
+    },
+    {
+      "id": "wd_Q1767303",
+      "name": "Los Negros",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1767303"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1767303"
+    },
+    {
+      "id": "wd_Q6683246",
+      "name": "Los Rojos",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "drug cartel",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6683246"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6683246"
+    },
+    {
+      "id": "wd_Q106967390",
+      "name": "Los Rojos Cartel",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q106967390"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q106967390"
+    },
+    {
+      "id": "wd_Q106651146",
+      "name": "Los Talibanes",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican cartel split from the Zetas",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q106651146"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q106651146"
+    },
+    {
+      "id": "wd_Q85782218",
+      "name": "Los Viagras",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican cartel gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q85782218"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q85782218"
+    },
+    {
+      "id": "zetas",
+      "name": "Los Zetas",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Los_Zetas"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "wd_Q248337",
+      "name": "Los Zetas",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "criminal syndicate in México",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q248337"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q248337"
+    },
+    {
+      "id": "wd_Q281284",
+      "name": "Lucchese crime family",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "one of the \"Five Families\" that dominates organized crime activities in New York City, United States",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q281284"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q281284"
+    },
+    {
+      "id": "wd_Q23018379",
+      "name": "Lucerne Street Doggz",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "street gang in Boston",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q23018379"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q23018379"
+    },
+    {
+      "id": "wd_Q2302410",
+      "name": "MAFIA DMG FAMILY",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Crime mafia in Mexico",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q2302410"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q2302410"
+    },
+    {
+      "id": "wd_Q6743410",
+      "name": "Malibu Locals Only",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "gang in Malibu",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6743410"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6743410"
+    },
+    {
+      "id": "wd_Q11880753",
+      "name": "Maniac Latin Disciples",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q11880753"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q11880753"
+    },
+    {
+      "id": "wd_Q6770755",
+      "name": "Market Street Commandos",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "California motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6770755"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6770755"
+    },
+    {
+      "id": "wd_Q6783584",
+      "name": "Mason Henry Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "gang in California, United States",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6783584"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6783584"
+    },
+    {
+      "id": "wd_Q2572366",
+      "name": "Mau Maus",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Brooklyn Puerto Rican gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q2572366"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q2572366"
+    },
+    {
+      "id": "wd_Q6800139",
+      "name": "McCanles Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Outlaw gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6800139"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6800139"
+    },
+    {
+      "id": "wd_Q1530288",
+      "name": "Mexican Mafia",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican-American crime organization in the United States",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1530288"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1530288"
+    },
+    {
+      "id": "wd_Q6838600",
+      "name": "Mickey Cobras",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "street gang based in Chicago, Illinois, United States",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q6838600"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q6838600"
+    },
+    {
+      "id": "wd_Q2940548",
+      "name": "Milenio Cartel",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "drug cartel from México",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q2940548"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q2940548"
+    },
+    {
+      "id": "wd_Q46881",
+      "name": "Mongols Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "outlaw motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q46881"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q46881"
+    },
+    {
+      "id": "wd_Q25058127",
+      "name": "Moonshiners Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American riding club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q25058127"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q25058127"
+    },
+    {
+      "id": "wd_Q127784",
+      "name": "MS-13",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "transnational criminal gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q127784"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q127784"
+    },
+    {
+      "id": "wd_Q743485",
+      "name": "National Crime Syndicate",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Cabal of American criminals in mid 20th century",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q743485"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q743485"
+    },
+    {
+      "id": "eln",
+      "name": "National Liberation Army (ELN)",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Colombia"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/National_Liberation_Army_(Colombia)"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "wd_Q20711162",
+      "name": "Native Mob",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Twin Cities Street Gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q20711162"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q20711162"
+    },
+    {
+      "id": "wd_Q2050029",
+      "name": "Nazi Lowriders",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "criminal organization primarily based in southern California and Texas, United States",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q2050029"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q2050029"
+    },
+    {
+      "id": "wd_Q16147225",
+      "name": "New York divorce coercion gang",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "kidnap and torture ring",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q16147225"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q16147225"
+    },
+    {
+      "id": "northeast",
+      "name": "Northeast Cartel",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Northeast_Cartel"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "wd_Q19876411",
+      "name": "Nucky Johnson's Organization",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American Prohibition-era crime syndicate and political machine in Atlantic City, New Jersey",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q19876411"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q19876411"
+    },
+    {
+      "id": "wd_Q2493612",
+      "name": "Nuestra Familia",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "criminal organization of Mexican American prison gangs",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q2493612"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q2493612"
+    },
+    {
+      "id": "wd_Q108658757",
+      "name": "Nueva Plaza Cartel",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican cartel group split of the CJNG",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q108658757"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q108658757"
+    },
+    {
+      "id": "wd_Q7074511",
+      "name": "Oaxaca Cartel",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican drug cartel",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7074511"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7074511"
+    },
+    {
+      "id": "wd_Q29641610",
+      "name": "Orchard Park Trailblazers",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Boston street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q29641610"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q29641610"
+    },
+    {
+      "id": "wd_Q7112169",
+      "name": "Outlaws Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "international outlaw motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7112169"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7112169"
+    },
+    {
+      "id": "wd_Q28104105",
+      "name": "OVS",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "mexican-American gang from Ontario, California",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q28104105"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q28104105"
+    },
+    {
+      "id": "wd_Q1439352",
+      "name": "Pagan's Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "outlaw motorcycle club in Prince George's County, Maryland, United States",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1439352"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1439352"
+    },
+    {
+      "id": "wd_Q2348115",
+      "name": "Patriarca crime family",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Organized Crime Group",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q2348115"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q2348115"
+    },
+    {
+      "id": "wd_Q7148242",
+      "name": "Patsy Conroy Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7148242"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7148242"
+    },
+    {
+      "id": "wd_Q7182876",
+      "name": "Philadelphia poison ring",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "a murder for hire gang led by Italian immigrant cousins, Herman and Paul Petrillo, in 1930s Philadelphia, USA",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7182876"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7182876"
+    },
+    {
+      "id": "wd_Q4047002",
+      "name": "Pirus",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Los Angeles street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q4047002"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q4047002"
+    },
+    {
+      "id": "wd_Q1562332",
+      "name": "Pissed Off Bastards of Bloomington",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "California motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1562332"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1562332"
+    },
+    {
+      "id": "wd_Q7205256",
+      "name": "Plug Uglies",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7205256"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7205256"
+    },
+    {
+      "id": "pcc",
+      "name": "Primeiro Comando da Capital",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Brazil"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Primeiro_Comando_da_Capital"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "wd_Q29096457",
+      "name": "Proud Boys",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "North American neo-fascist organization led by Enrique Tarrio",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q29096457"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q29096457"
+    },
+    {
+      "id": "wd_Q124661036",
+      "name": "Pueblos Unidos",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican criminal group",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q124661036"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q124661036"
+    },
+    {
+      "id": "wd_Q7335698",
+      "name": "Ripper Crew",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "serial killers",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7335698"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7335698"
+    },
+    {
+      "id": "wd_Q116776752",
+      "name": "ROD Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "New Orleans drug ring",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q116776752"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q116776752"
+    },
+    {
+      "id": "wd_Q42367936",
+      "name": "Rollin' 20's Crips",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "crips set based on Eastside, Long Beach, California",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q42367936"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q42367936"
+    },
+    {
+      "id": "wd_Q2171868",
+      "name": "Rudaj Organization",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Albanian mafia in the New York City metro area",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q2171868"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q2171868"
+    },
+    {
+      "id": "wd_Q60748372",
+      "name": "Sadistic Souls Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "white supremacist outlaw motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q60748372"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q60748372"
+    },
+    {
+      "id": "wd_Q105640934",
+      "name": "Sangre Nueva Zeta",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q105640934"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q105640934"
+    },
+    {
+      "id": "wd_Q7419557",
+      "name": "Santa Fe Ring",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7419557"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7419557"
+    },
+    {
+      "id": "santa_rosa",
+      "name": "Santa Rosa de Lima Cartel",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Santa_Rosa_de_Lima_Cartel"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "wd_Q76215185",
+      "name": "Santa Rosa de Lima Cartel",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican criminal organization that operates in the state of Guanajuato",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q76215185"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q76215185"
+    },
+    {
+      "id": "wd_Q7425907",
+      "name": "Satanas",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "filipino-American street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7425907"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7425907"
+    },
+    {
+      "id": "wd_Q7458408",
+      "name": "Sex Money Murda",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "street gang operating on the East Coast of the United States",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7458408"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7458408"
+    },
+    {
+      "id": "wd_Q120072",
+      "name": "Sheldon Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Chicago bootlegging gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q120072"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q120072"
+    },
+    {
+      "id": "wd_Q7518464",
+      "name": "Simon City Royals",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Chicago street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7518464"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7518464"
+    },
+    {
+      "id": "sinaloa",
+      "name": "Sinaloa Cartel",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Sinaloa_Cartel"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "wd_Q1586503",
+      "name": "Sinaloa Cartel",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican drug cartel and terrorist organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1586503"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1586503"
+    },
+    {
+      "id": "wd_Q104845542",
+      "name": "Soldiers of Aryan Culture",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "white supremacist prison gang in the United States",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q104845542"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q104845542"
+    },
+    {
+      "id": "wd_Q7562343",
+      "name": "Sons of Satan MC",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "outlaw motorcycle club affiliated with the Pagans MC",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7562343"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7562343"
+    },
+    {
+      "id": "wd_Q7579084",
+      "name": "Spook Hunters",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "white racist youth gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7579084"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7579084"
+    },
+    {
+      "id": "wd_Q3066014",
+      "name": "St. Louis crime family",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American Mafia crime family based in St. Louis, Missouri, United States",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q3066014"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q3066014"
+    },
+    {
+      "id": "wd_Q58827177",
+      "name": "Sun Gym gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "criminal gang in Miami, Florida, United States",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q58827177"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q58827177"
+    },
+    {
+      "id": "wd_Q1429446",
+      "name": "Symbionese Liberation Army",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American left-wing terrorist organization, defunct",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1429446"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1429446"
+    },
+    {
+      "id": "wd_Q83583812",
+      "name": "The Base",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "neo-Nazi, white supremacist paramilitary hate group",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q83583812"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q83583812"
+    },
+    {
+      "id": "wd_Q2410020",
+      "name": "The Breed Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "one-percenter motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q2410020"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q2410020"
+    },
+    {
+      "id": "wd_Q1336403",
+      "name": "The Brotherhood of Eternal Love",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American organization of drug users and distributors that operated from the mid-1960s through the late 1970s",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1336403"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1336403"
+    },
+    {
+      "id": "wd_Q23278474",
+      "name": "The Company",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "organized crime syndicate based in Hawaii",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q23278474"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q23278474"
+    },
+    {
+      "id": "wd_Q7740466",
+      "name": "The Hounds",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "anti-foreigner gang in San Francisco",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7740466"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7740466"
+    },
+    {
+      "id": "wd_Q69104815",
+      "name": "The Jolly Stompers",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Brooklyn street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q69104815"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q69104815"
+    },
+    {
+      "id": "wd_Q107388841",
+      "name": "The New Michoacan Family",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican Cartel and Mexican criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q107388841"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q107388841"
+    },
+    {
+      "id": "wd_Q56640888",
+      "name": "The Smileys",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "fictional gang in the 2003 video game Mahunt",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q56640888"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q56640888"
+    },
+    {
+      "id": "tijuana",
+      "name": "Tijuana Cartel",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Tijuana_Cartel"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
       "id": "tren_aragua",
       "name": "Tren de Aragua",
       "tier": "Publicly documented organization",
@@ -341,6 +3687,214 @@
         "https://en.wikipedia.org/wiki/Tren_de_Aragua"
       ],
       "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "wd_Q108937789",
+      "name": "Tulisan",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Seattle-based street gang active in the 1980s",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q108937789"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q108937789"
+    },
+    {
+      "id": "wd_Q3550693",
+      "name": "United Blood Nation",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "street gang in New York City",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q3550693"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q3550693"
+    },
+    {
+      "id": "wd_Q7887780",
+      "name": "United Freedom Front",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American Marxist terrorist group (1975-1984)",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7887780"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7887780"
+    },
+    {
+      "id": "wd_Q2495221",
+      "name": "United Klans of America",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Ku Klux Klan organization in the United States",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q2495221"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q2495221"
+    },
+    {
+      "id": "wd_Q140047518",
+      "name": "Unión de León",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican criminal group",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q140047518"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q140047518"
+    },
+    {
+      "id": "wd_Q105408867",
+      "name": "Untouchable Gorilla Stone Nation",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "United States gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q105408867"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q105408867"
+    },
+    {
+      "id": "wd_Q7908538",
+      "name": "Vagos Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "U.S. motorcycle club",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7908538"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7908538"
+    },
+    {
+      "id": "wd_Q7919998",
+      "name": "Venice Shoreline Crips",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "african-American street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7919998"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7919998"
+    },
+    {
+      "id": "wd_Q7969515",
+      "name": "Warlocks Motorcycle Club",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Outlaw motorcycle club founded in 1967",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q7969515"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q7969515"
+    },
+    {
+      "id": "wd_Q1493546",
+      "name": "Westies",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "Hell's Kitchen, New York City, Irish American organized crime gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q1493546"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q1493546"
+    },
+    {
+      "id": "wd_Q61744142",
+      "name": "White Tigers",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "New York City Chinese street gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q61744142"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q61744142"
+    },
+    {
+      "id": "wd_Q4020460",
+      "name": "Winter Hill Gang",
+      "tier": "Gang",
+      "entity_type": "organization",
+      "regions": [
+        "United States"
+      ],
+      "description": "American gang",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q4020460"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q4020460"
+    },
+    {
+      "id": "wd_Q110808966",
+      "name": "Zetas Vieja Escuela",
+      "tier": "Criminal organization",
+      "entity_type": "organization",
+      "regions": [
+        "Mexico"
+      ],
+      "description": "Mexican criminal organization",
+      "source_urls": [
+        "http://www.wikidata.org/entity/Q110808966"
+      ],
+      "verification": "Unreviewed Wikidata classification; not independently verified; historical/current status unknown",
+      "source_type": "Wikidata",
+      "wikidata_id": "Q110808966"
     }
   ],
   "links": [
