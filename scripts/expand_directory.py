@@ -63,36 +63,6 @@ def main():
         except Exception as exc:
             failures.append(f'{qid}: {exc}')
         time.sleep(2)
-    if failures:
-        print(
-            "NOTICE: Wikidata discovery incomplete. "
-            "Existing dataset preserved. "
-            + "; ".join(failures)
-        )
-        return
-
-    for key, node in results.items():
-        if key not in old:
-            old[key] = node
-
-    obj['nodes'] = sorted(
-        old.values(),
-        key=lambda x: x['name'].casefold()
-    )
-
-    obj.setdefault('metadata', {})['discovery_note'] = (
-        'Wikidata candidates are unreviewed; '
-        'no relationships or active status inferred.'
-    )
-
-    DEST.write_text(
-        json.dumps(obj, ensure_ascii=False, indent=2) + '\n',
-        encoding='utf8'
-    )
-
-    print(
-        f"Discovered {len(results)} Wikidata candidates; "
-        f"total nodes {len(obj['nodes'])}"
-    )
+   
 
 if __name__=='__main__':main()
