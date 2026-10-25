@@ -1,14 +1,378 @@
 {
-  "metadata":{"title":"Illustrative public-source faction graph","version":"1.0","published":"2026-10-25","note":"Entities are examples. Edges are unverified demonstration relationships, not intelligence assessments."},
-  "nodes":[
-    {"id":"chapitos","name":"Los Chapitos","tier":"Core Syndicate Faction","regions":["Sinaloa"],"leadership":{"status":"Unverified","key_figures":[]},"funding_streams":[],"source_urls":["https://www.wikidata.org/wiki/Q170602"],"verification":"Entity example; claims unverified"},
-    {"id":"mayiza","name":"La Mayiza","tier":"Core Syndicate Faction","regions":["Sinaloa"],"leadership":{"status":"Unverified","key_figures":[]},"funding_streams":[],"source_urls":[],"verification":"Entity example; claims unverified"},
-    {"id":"cjng","name":"Jalisco New Generation Cartel","tier":"Core Syndicate Faction","regions":["Jalisco"],"leadership":{"status":"Unverified","key_figures":[]},"funding_streams":[],"source_urls":["https://en.wikipedia.org/wiki/Jalisco_New_Generation_Cartel"],"verification":"Entity example; claims unverified"},
-    {"id":"lobos","name":"Los Lobos (Ecuador)","tier":"Regional Faction","regions":["Ecuador"],"leadership":{"status":"Unverified","key_figures":[]},"funding_streams":[],"source_urls":[],"verification":"Entity example; claims unverified"}
+  "metadata": {
+    "title": "Public-source organization directory and illustrative network",
+    "version": "2.0",
+    "published": "2026-10-25",
+    "note": "Wikipedia links are references for entity identity only. No current activity, territory, or relationship is inferred. All existing illustrative edges are unverified."
+  },
+  "nodes": [
+    {
+      "id": "chapitos",
+      "name": "Los Chapitos",
+      "tier": "Core Syndicate Faction",
+      "regions": [
+        "Sinaloa"
+      ],
+      "leadership": {
+        "status": "Unverified",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://www.wikidata.org/wiki/Q170602"
+      ],
+      "verification": "Entity label only; relationship and operational claims not verified"
+    },
+    {
+      "id": "mayiza",
+      "name": "La Mayiza",
+      "tier": "Core Syndicate Faction",
+      "regions": [
+        "Sinaloa"
+      ],
+      "leadership": {
+        "status": "Unverified",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [],
+      "verification": "Entity label only; relationship and operational claims not verified"
+    },
+    {
+      "id": "cjng",
+      "name": "Jalisco New Generation Cartel",
+      "tier": "Core Syndicate Faction",
+      "regions": [
+        "Jalisco"
+      ],
+      "leadership": {
+        "status": "Unverified",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Jalisco_New_Generation_Cartel"
+      ],
+      "verification": "Entity label only; relationship and operational claims not verified"
+    },
+    {
+      "id": "lobos",
+      "name": "Los Lobos (Ecuador)",
+      "tier": "Regional Faction",
+      "regions": [
+        "Ecuador"
+      ],
+      "leadership": {
+        "status": "Unverified",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [],
+      "verification": "Entity label only; relationship and operational claims not verified"
+    },
+    {
+      "id": "sinaloa",
+      "name": "Sinaloa Cartel",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Sinaloa_Cartel"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "gulf",
+      "name": "Gulf Cartel",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Gulf_Cartel"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "zetas",
+      "name": "Los Zetas",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Los_Zetas"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "northeast",
+      "name": "Northeast Cartel",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Northeast_Cartel"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "beltran",
+      "name": "Beltrán Leyva Organization",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Beltr%C3%A1n_Leyva_Organization"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "familia",
+      "name": "La Familia Michoacana",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/La_Familia_Michoacana"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "templarios",
+      "name": "Knights Templar Cartel",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Knights_Templar_Cartel"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "juarez",
+      "name": "Juárez Cartel",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Ju%C3%A1rez_Cartel"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "tijuana",
+      "name": "Tijuana Cartel",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Tijuana_Cartel"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "santa_rosa",
+      "name": "Santa Rosa de Lima Cartel",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Santa_Rosa_de_Lima_Cartel"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "union",
+      "name": "La Unión Tepito",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Mexico"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/La_Uni%C3%B3n_Tepito"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "clan_golfo",
+      "name": "Clan del Golfo",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Colombia"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Clan_del_Golfo"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "eln",
+      "name": "National Liberation Army (ELN)",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Colombia"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/National_Liberation_Army_(Colombia)"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "pcc",
+      "name": "Primeiro Comando da Capital",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Brazil"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Primeiro_Comando_da_Capital"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "comando_vermelho",
+      "name": "Comando Vermelho",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Brazil"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Comando_Vermelho"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    },
+    {
+      "id": "tren_aragua",
+      "name": "Tren de Aragua",
+      "tier": "Publicly documented organization",
+      "regions": [
+        "Venezuela"
+      ],
+      "leadership": {
+        "status": "Not assessed",
+        "key_figures": []
+      },
+      "funding_streams": [],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Tren_de_Aragua"
+      ],
+      "verification": "Entity identity reference only; no operational claims verified"
+    }
   ],
-  "links":[
-    {"id":"example1","source":"chapitos","target":"mayiza","relationship_type":"Active Conflict","status_label":"Illustrative conflict (unverified)","intensity_score":5,"verification":"unverified","source_urls":[]},
-    {"id":"example2","source":"chapitos","target":"cjng","relationship_type":"Tactical Alliance","status_label":"Illustrative alliance (unverified)","intensity_score":5,"verification":"unverified","source_urls":[]},
-    {"id":"example3","source":"cjng","target":"lobos","relationship_type":"Proxy Franchise","status_label":"Illustrative proxy (unverified)","intensity_score":5,"verification":"unverified","source_urls":[]}
+  "links": [
+    {
+      "id": "example1",
+      "source": "chapitos",
+      "target": "mayiza",
+      "relationship_type": "Active Conflict",
+      "status_label": "Illustrative, unverified relationship — not a factual assertion",
+      "intensity_score": 5,
+      "verification": "Illustrative / unverified",
+      "source_urls": []
+    },
+    {
+      "id": "example2",
+      "source": "chapitos",
+      "target": "cjng",
+      "relationship_type": "Tactical Alliance",
+      "status_label": "Illustrative, unverified relationship — not a factual assertion",
+      "intensity_score": 5,
+      "verification": "Illustrative / unverified",
+      "source_urls": []
+    },
+    {
+      "id": "example3",
+      "source": "cjng",
+      "target": "lobos",
+      "relationship_type": "Proxy Franchise",
+      "status_label": "Illustrative, unverified relationship — not a factual assertion",
+      "intensity_score": 5,
+      "verification": "Illustrative / unverified",
+      "source_urls": []
+    }
   ]
 }
