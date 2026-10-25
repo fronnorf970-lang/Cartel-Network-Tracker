@@ -29,9 +29,11 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Get validator from main
+      - name: Download validator from main
         run: |
-          git show origin/main:scripts/validate_directory.py > /tmp/validate_directory.py
+          curl --fail --location --silent --show-error \
+            https://raw.githubusercontent.com/fronnorf970-lang/Cartel-Network-Tracker/main/scripts/validate_directory.py \
+            --output /tmp/validate_directory.py
 
       - name: Validate directory
         run: |
