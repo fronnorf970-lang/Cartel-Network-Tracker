@@ -1,1 +1,4 @@
-{"updated":null,"entities":[],"note":"Populated by the optional Wikidata sync workflow. Imported descriptions are reference material, not verified relationship claims."}
+{
+  "entities": [],
+  "note": "Public Wikidata descriptions only; review before incorporating into master baseline."
+}
