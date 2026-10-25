@@ -1,0 +1,41 @@
+
+name: Validate Directory
+
+on:
+  pull_request:
+    paths:
+      - "data/master_network.json"
+      - "scripts/validate_directory.py"
+      - ".github/workflows/validate-directory.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate network dataset
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate directory
+        run: |
+          python scripts/validate_directory.py \
+            data/master_network.json \
+            --report directory_validation_report.json
+
+      - name: Upload validation report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: directory-validation-report
+          path: directory_validation_report.json
+          if-no-files-found: ignore
