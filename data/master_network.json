@@ -1,0 +1,14 @@
+{
+  "metadata":{"title":"Illustrative public-source faction graph","version":"1.0","published":"2026-10-25","note":"Entities are examples. Edges are unverified demonstration relationships, not intelligence assessments."},
+  "nodes":[
+    {"id":"chapitos","name":"Los Chapitos","tier":"Core Syndicate Faction","regions":["Sinaloa"],"leadership":{"status":"Unverified","key_figures":[]},"funding_streams":[],"source_urls":["https://www.wikidata.org/wiki/Q170602"],"verification":"Entity example; claims unverified"},
+    {"id":"mayiza","name":"La Mayiza","tier":"Core Syndicate Faction","regions":["Sinaloa"],"leadership":{"status":"Unverified","key_figures":[]},"funding_streams":[],"source_urls":[],"verification":"Entity example; claims unverified"},
+    {"id":"cjng","name":"Jalisco New Generation Cartel","tier":"Core Syndicate Faction","regions":["Jalisco"],"leadership":{"status":"Unverified","key_figures":[]},"funding_streams":[],"source_urls":["https://en.wikipedia.org/wiki/Jalisco_New_Generation_Cartel"],"verification":"Entity example; claims unverified"},
+    {"id":"lobos","name":"Los Lobos (Ecuador)","tier":"Regional Faction","regions":["Ecuador"],"leadership":{"status":"Unverified","key_figures":[]},"funding_streams":[],"source_urls":[],"verification":"Entity example; claims unverified"}
+  ],
+  "links":[
+    {"id":"example1","source":"chapitos","target":"mayiza","relationship_type":"Active Conflict","status_label":"Illustrative conflict (unverified)","intensity_score":5,"verification":"unverified","source_urls":[]},
+    {"id":"example2","source":"chapitos","target":"cjng","relationship_type":"Tactical Alliance","status_label":"Illustrative alliance (unverified)","intensity_score":5,"verification":"unverified","source_urls":[]},
+    {"id":"example3","source":"cjng","target":"lobos","relationship_type":"Proxy Franchise","status_label":"Illustrative proxy (unverified)","intensity_score":5,"verification":"unverified","source_urls":[]}
+  ]
+}

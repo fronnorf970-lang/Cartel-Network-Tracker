@@ -1,0 +1,4 @@
+[
+  {"event_id":"demo-2024","timestamp":"2024-01-01T00:00:00Z","target_type":"network","action":"BASELINE","description":"Demonstration timeline start; no verified historical assertions."},
+  {"event_id":"demo-2026","timestamp":"2026-10-25T00:00:00Z","target_type":"network","action":"BASELINE","description":"Illustrative baseline shown at current timeline position."}
+]
